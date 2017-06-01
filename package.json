@@ -1,0 +1,22 @@
+{
+  "name": "gulpitup",
+  "version": "1.0.0",
+  "description": "Gulp JS based application",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil505/gulpitup.git"
+  },
+  "author": "Sahil Khokhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahil505/gulpitup/issues"
+  },
+  "homepage": "https://github.com/sahil505/gulpitup#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
